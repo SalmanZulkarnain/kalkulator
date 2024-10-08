@@ -1,0 +1,48 @@
+* {
+    font-family: Poppins;
+    font-weight: bold;
+    border: none;
+}
+
+.cal-container {
+    background-color: darkblue;
+    margin: 0 auto;
+    display: table;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.cal-title {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    margin: 30px;
+}
+
+.bilangan_1, 
+.bilangan_2,
+.hasil {
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 5px 0px 5px 30px;
+}
+
+.operator {
+    text-align: center;
+    border-radius: 5px;
+    width: 140px;
+    margin: 5px 3px 5px 30px;
+    padding: 10px 20px;
+}
+
+.hitung {
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+}
+.hasil {
+    margin-bottom: 50px;
+}
+
+
